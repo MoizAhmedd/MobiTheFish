@@ -11,7 +11,7 @@ Mobi The Fish game, a game in which the objective is to use mobi the fish to swi
 
 ## Screenshots 
 <div class = "images">
- <img src = "Mobi.JPG" width = 30%>
- <img src = "Mobi1.JPG" width = 30%>
- <img src = "Mobi2.JPG" width = 30%>
+ <img src = "Mobi.JPG" width = 33%>
+ <img src = "Mobi1.JPG" width = 33%>
+ <img src = "Mobi2.JPG" width = 33%>
 </div>
