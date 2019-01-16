@@ -10,6 +10,6 @@ Mobi The Fish game, a game in which the objective is to use mobi the fish to swi
   * The game consists of 4 screens Starting Screen, Playing Screen, Game Over Screen , Winning screen
 
 ## Screenshots 
-<img src = "Mobi.jpg">
-<img src = "Mobi1.jpg">
-<img src = "Mobi2.jpg">
+<img src = "Mobi.JPG">
+<img src = "Mobi1.JPG">
+<img src = "Mobi2.JPG">
