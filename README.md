@@ -1,9 +1,4 @@
-<style>
- .images{
-    display:inline;
- }
- </style>
- 
+
 # Mobi The Fish
 Mobi The Fish game, a game in which the objective is to use mobi the fish to swim across the sea and eat other fish!
 
@@ -16,7 +11,7 @@ Mobi The Fish game, a game in which the objective is to use mobi the fish to swi
 
 ## Screenshots 
 <div class = "images">
- <img src = "Mobi.JPG">
- <img src = "Mobi1.JPG">
- <img src = "Mobi2.JPG">
+ <img src = "Mobi.JPG" width = 25%>
+ <img src = "Mobi1.JPG" width = 25%>
+ <img src = "Mobi2.JPG" width = 25%>
 </div>
